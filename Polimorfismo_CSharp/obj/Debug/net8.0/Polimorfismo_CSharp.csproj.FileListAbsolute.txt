@@ -1,0 +1,14 @@
+D:\Estudo_Postagem\Polimorfismo_CSharp\obj\Debug\net8.0\Polimorfismo_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo_Postagem\Polimorfismo_CSharp\obj\Debug\net8.0\Polimorfismo_CSharp.AssemblyInfoInputs.cache
+D:\Estudo_Postagem\Polimorfismo_CSharp\obj\Debug\net8.0\Polimorfismo_CSharp.AssemblyInfo.cs
+D:\Estudo_Postagem\Polimorfismo_CSharp\obj\Debug\net8.0\Polimorfismo_CSharp.csproj.CoreCompileInputs.cache
+D:\Estudo_Postagem\Polimorfismo_CSharp\bin\Debug\net8.0\Polimorfismo_CSharp.exe
+D:\Estudo_Postagem\Polimorfismo_CSharp\bin\Debug\net8.0\Polimorfismo_CSharp.deps.json
+D:\Estudo_Postagem\Polimorfismo_CSharp\bin\Debug\net8.0\Polimorfismo_CSharp.runtimeconfig.json
+D:\Estudo_Postagem\Polimorfismo_CSharp\bin\Debug\net8.0\Polimorfismo_CSharp.dll
+D:\Estudo_Postagem\Polimorfismo_CSharp\bin\Debug\net8.0\Polimorfismo_CSharp.pdb
+D:\Estudo_Postagem\Polimorfismo_CSharp\obj\Debug\net8.0\Polimorfismo_CSharp.dll
+D:\Estudo_Postagem\Polimorfismo_CSharp\obj\Debug\net8.0\refint\Polimorfismo_CSharp.dll
+D:\Estudo_Postagem\Polimorfismo_CSharp\obj\Debug\net8.0\Polimorfismo_CSharp.pdb
+D:\Estudo_Postagem\Polimorfismo_CSharp\obj\Debug\net8.0\Polimorfismo_CSharp.genruntimeconfig.cache
+D:\Estudo_Postagem\Polimorfismo_CSharp\obj\Debug\net8.0\ref\Polimorfismo_CSharp.dll
